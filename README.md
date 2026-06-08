@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Rahul_yadav
-- 👀 I’m interested in coding and some video editing
-- 🌱 I’m currently learning c and c++ language
-- 💞️ I’m looking to collaborate on c and c++ developer
+- 👀 I’m interested in Data analysis 
+- 🌱 I’m currently learning power bi , sql , excel 
+
 - 📫 How to reach me using my gamil rahulyadv187@gmail.com
 - 🦴 my whatsapp no. 8595**4931
-- ⚡ Fun fact: ...I am ***😁🥲
+
 -
 
 <!---
