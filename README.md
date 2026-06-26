@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rahul_yadav
-- 👀 I’m interested in Data analysis 
+
 - 🌱 I’m currently learning power bi , sql , excel and python
 
 - 📫 How to reach me using my gamil rahulyadv187@gmail.com
