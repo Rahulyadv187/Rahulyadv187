@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Rahul_yadav
 - 👀 I’m interested in Data analysis 
-- 🌱 I’m currently learning power bi , sql , excel 
+- 🌱 I’m currently learning power bi , sql , excel and python
 
 - 📫 How to reach me using my gamil rahulyadv187@gmail.com
-- 🦴 my whatsapp no. 8595**4931
+- 🦴 linkdin https://www.linkedin.com/in/rahulyadavdtu/
 
 -
 
